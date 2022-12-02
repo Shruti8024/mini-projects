@@ -1,1 +1,5 @@
-some mini projects based on web development.
+MINI PROJECTS
+      includes-
+        1.QRCODE
+        2.FOOD WEBSITE
+        3.GYM WEBSITE
